@@ -12,8 +12,8 @@ Discord: Dirty Dan#3669</p>
 
 
 <h2>Skills</h2>
-HTML5 CSS3 (basic)
-JavaScript (basic)
+HTML5 CSS3 (basic)<br>
+JavaScript (basic)<br>
 Git, GitHub (basic)
 
 <h2>Code Example</h2>
@@ -23,11 +23,11 @@ Git, GitHub (basic)
 <h2>Education</h2>
 
 <h2>University</h2>
-Private educational institution
-"Institute of Parliamentarism and Entrepreneurship"
+<p>Private educational institution<br>
+"Institute of Parliamentarism and Entrepreneurship"</p>
 
-Courses
+<h2>Courses</h2>
 
 
-English
-A2 
+<h2>English</h2>
+<p>A2</p>
