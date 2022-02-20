@@ -9,6 +9,7 @@ Discord: Dirty Dan#3669</p>
 
 
 <h2>About Me</h2>
+<p>Purposeful ambitious team player who is ready to move mountains in order to complete the assigned tasks</p>
 
 
 <h2>Skills</h2>
